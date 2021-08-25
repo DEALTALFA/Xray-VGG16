@@ -1,7 +1,7 @@
 # CProject2021
 Detection of COVID-19 From Chest X-Ray Images Using Machine Learning
 
-In directory run
+To run on your local system 
 `python app.py`
 
 ## Docker Image
