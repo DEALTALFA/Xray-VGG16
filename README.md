@@ -6,6 +6,8 @@ In directory run
 
 ## Docker Image
 To test the docker image directory run 
-```docker run -it -p 81:80  docker.io/dealtalfa/vgg16:v1```
+```docker run -it -p 81:80  docker.io/dealtalfa/xray_vgg16:v1``` where v1 is tag
+
+To see all available tag see [here](https://hub.docker.com/repository/docker/dealtalfa/xray_vgg16)
 
 browse using any browser to [http://localhost:81](http://localhost:81) to see the frontend
