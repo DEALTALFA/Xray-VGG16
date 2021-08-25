@@ -12,4 +12,3 @@ Detection of COVID-19 From Chest X-Ray Images Using Machine Learning
 
 * Browse using any browser to [http://localhost:81](http://localhost:81) to see the frontend
 
-look here
