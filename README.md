@@ -6,6 +6,6 @@ In directory run
 
 ## Docker Image
 To test the docker image directory run 
+```docker run -it -p 81:80  docker.io/dealtalfa/vgg16:v1```
 
-```docker pull docker.io/dealtalfa/vgg16:v1```
-
+browse to the *localhost:81*
