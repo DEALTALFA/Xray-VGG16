@@ -6,7 +6,7 @@ Detection of COVID-19 From Chest X-Ray Images Using Machine Learning
 
 ## Docker Image
 * To test the docker image directory run 
-```docker run -it -p 81:80  docker.io/dealtalfa/xray_vgg16:v1``` where v1 is tag
+```docker run -it -p 81:80  docker.io/dealtalfa/xray_vgg16:v1```where v1 is tag
 
   To see all available tag see [here](https://hub.docker.com/repository/docker/dealtalfa/xray_vgg16)
 
