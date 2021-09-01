@@ -8,4 +8,3 @@ COPY src/ .
 EXPOSE 80
 ENTRYPOINT ["python3"]
 CMD ["-m","flask","run","--host=0.0.0.0","--port=80"]
-
